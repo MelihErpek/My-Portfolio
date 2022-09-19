@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.deneme{
+   @apply bg-black;
+   @apply text-center;
+   @apply hover:bg-slate-400 rounded-xl;
+   
+}
